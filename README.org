@@ -2,9 +2,8 @@
 
 Bindings to SoLoud, a multi-platform, multi-backend, minimal dependencies sound mixing and output library
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shirakumo/cl-soloud.git   |
-| commit  | dd96585  |
-| systems | cl-soloud |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://github.com/Shirakumo/cl-soloud.git |
+| commit  | 4e880cf                                        |
+| systems | cl-soloud                                      |
+|---------+------------------------------------------------|
