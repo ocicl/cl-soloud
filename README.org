@@ -4,6 +4,6 @@ Bindings to SoLoud, a multi-platform, multi-backend, minimal dependencies sound 
 
 |---------+--------------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/cl-soloud.git |
-| commit  | c45fcc2                                          |
+| commit  | 0e8f434                                          |
 | systems | cl-soloud                                        |
 |---------+--------------------------------------------------|
